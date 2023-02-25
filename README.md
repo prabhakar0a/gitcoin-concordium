@@ -16,3 +16,5 @@ Obtain testnet CCD by creating a Testnet account and using the CCD faucet.
 ## Step 5: 
 Export the account from the web wallet and import it into Concordium client.
 ![img-.png](img-7.png)
+## Mainnet Address
+3QiGBP4Gfyio9S7iRgbHiRyEFC2N3dAPeZxfD6TvvSKpsNnBVR
